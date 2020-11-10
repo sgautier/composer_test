@@ -1,2 +1,5 @@
 # Ignore IDE settings
 .idea
+
+# Ignore vendor
+/vendor/
